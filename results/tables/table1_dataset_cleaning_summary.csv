@@ -1,0 +1,5 @@
+Stage,Number of samples
+Raw dataset,13283
+After removing failed calculations,11319
+After physical consistency filtering,11270
+Final machine learning dataset after feature generation,11269
