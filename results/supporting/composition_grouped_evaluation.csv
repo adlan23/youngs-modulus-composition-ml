@@ -1,0 +1,8 @@
+Metric,Value
+Grouped test R²,0.8235006826525465
+Grouped RMSE (log10(E)),0.1749678154963187
+Grouped MAE (log10(E)),0.11064270609205963
+Train samples,8998.0
+Test samples,2271.0
+Train formulas,7895.0
+Test formulas,1974.0
