@@ -1,0 +1,28 @@
+# Raw and generated data
+data/raw/
+runs/
+cms_runs/
+*.jsonl
+
+# Credentials and local configuration
+.env
+*.key
+*.pem
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter and editors
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and archived software release."
+title: "Composition-Based Machine Learning for Young's Modulus Prediction with Formula-Grouped Evaluation"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Tan
+    given-names: Tian Swee
+  - family-names: Sheikh
+    given-names: Jahanzeb
+  - family-names: Anuar
+    given-names: Ahmad Adlan
+  - family-names: Jusoh
+    given-names: Norhana
+  - family-names: Dewan
+    given-names: Raimi
+  - family-names: Hum
+    given-names: Yan Chai
+  - family-names: Tan
+    given-names: Michael Loong Peng
+  - family-names: Shahar
+    given-names: Norazman
+  - family-names: Lai
+    given-names: Khin Wee
+repository-code: "https://github.com/adlan23/youngs-modulus-composition-ml"
+license: MIT
+keywords:
+  - materials informatics
+  - Young's modulus
+  - composition descriptors
+  - XGBoost
+  - Materials Project
