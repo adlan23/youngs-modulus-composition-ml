@@ -1,0 +1,11 @@
+Split,Model,R2,RMSE_log10E,MAE_log10E
+Random,Training median,-0.0005,0.4002,0.3166
+Random,Ridge,0.6475,0.2376,0.1729
+Random,Random Forest,0.8021,0.1780,0.1142
+Random,Roost,0.7922,0.1824,0.1128
+Random,XGBoost,0.8264,0.1667,0.1058
+Formula grouped,Training median,-0.0043,0.4174,0.3183
+Formula grouped,Ridge,0.6059,0.2614,0.1820
+Formula grouped,Random Forest,0.7812,0.1948,0.1235
+Formula grouped,Roost,0.7899,0.1909,0.1184
+Formula grouped,XGBoost,0.8235,0.1750,0.1106

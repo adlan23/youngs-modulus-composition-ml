@@ -1,0 +1,4 @@
+Model,Number of features,R2
+Full features,107,0.8264038823516678
+Top 30 features,30,0.8217335246917595
+Random 30 features,30,0.7954480473776311

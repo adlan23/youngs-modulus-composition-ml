@@ -1,0 +1,4 @@
+Stage,Number of features
+Numeric composition-descriptor dataset including target,139
+Composition descriptors after target removal,138
+Final input features after correlation filtering,107
