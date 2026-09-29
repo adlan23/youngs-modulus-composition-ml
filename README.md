@@ -131,4 +131,4 @@ Each random and grouped model was trained for 100 epochs with one model, L1 loss
 
 ## Citation and licence
 
-Citation metadata are provided in `CITATION.cff`. The code and repository contents are released under the MIT License; see `LICENSE`. The Zenodo DOI will be added here after the first public release has been archived.
+Citation metadata are provided in `CITATION.cff`. The code and repository contents are released under the MIT License; see `LICENSE`. Version 1.0.0 is permanently archived on Zenodo at [https://doi.org/10.5281/zenodo.23019649].
